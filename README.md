@@ -1,2 +1,2 @@
 # algorithm
-algorithm test
+algorithm about LeetCode
