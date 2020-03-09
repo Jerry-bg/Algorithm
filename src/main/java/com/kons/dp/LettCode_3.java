@@ -1,4 +1,4 @@
-package dp;
+package com.kons.dp;
 
 public class LettCode_3 {
     public int LengthOfLongestSubstring(String s) {

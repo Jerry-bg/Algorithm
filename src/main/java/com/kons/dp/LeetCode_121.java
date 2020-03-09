@@ -1,4 +1,4 @@
-package dp;
+package com.kons.dp;
 
 public class LeetCode_121 {
     public int maxProfit(int[] prices) {

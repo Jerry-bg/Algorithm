@@ -1,4 +1,4 @@
-package dp;
+package com.kons.dp;
 
 public class LeetCode_213 {
     public int rob(int[] nums) {
